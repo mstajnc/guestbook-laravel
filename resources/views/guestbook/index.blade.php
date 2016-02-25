@@ -14,5 +14,8 @@
     <label for="content">Message</label>
     <textarea name="content" id="content"></textarea>
 
+    <label for="">Hello kitty</label>
+    <textarea name="content" id=""></textarea>
+
     <input type="submit" value="Post" id="post">
 </form>

@@ -8,7 +8,6 @@ class Guestbook extends Model
 {
     protected $fillable = [
         'name', 
-        'content',
-        /*'hellokitty'*/
+        'content'
     ];
 }
